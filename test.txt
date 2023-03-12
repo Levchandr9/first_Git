@@ -1,1 +1,2 @@
-my first worke with Git
+my first worke with Git 
+print ('helo world')
